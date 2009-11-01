@@ -1,5 +1,5 @@
 Trying to come up with a nice way to DRY up the process of generating background images for website styling.
-The desire syntax would be something like:
+The desired syntax would be something like:
 
 image('background-header.png', :width => 5) do
   gradient :white, '#BCBCBC', :height => 50
